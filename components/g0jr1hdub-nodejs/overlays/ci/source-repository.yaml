@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: g0jr1hdub-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/g0jr1hdub-nodejs
